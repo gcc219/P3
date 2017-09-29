@@ -8,7 +8,11 @@
 #include "structs.h"
 #include "filesystem.h"
 
+<<<<<<< HEAD
 //FT
+=======
+//Final Test
+>>>>>>> 26e63640596c528b2105d01cc8452ee54cd98e82
 /*
  * generateData() - Converts source from hex digits to
  * binary data. Returns allocated pointer to data
