@@ -8,7 +8,7 @@
 #include "structs.h"
 #include "filesystem.h"
 
-//GITHUB TEST
+//GITHUB TEST2
 /*
  * generateData() - Converts source from hex digits to
  * binary data. Returns allocated pointer to data
